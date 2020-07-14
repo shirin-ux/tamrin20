@@ -5,4 +5,4 @@ b=50
 r=((float(input("Enter The inflation rate:")))/100)
 z=(a*x+y*b)
 f=(z*r)+z
-print("The inflation rate:",f)
+print("Increase the cost of the company:",f)
